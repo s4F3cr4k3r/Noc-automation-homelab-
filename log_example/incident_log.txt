@@ -1,0 +1,3 @@
+2026-03-01 13:18:01 - 192.168.1.25 - Print Spooler stopped - Service restarted - Success
+2026-03-01 14:31:01 - 192.168.1.25 - Print Spooler stopped - Service restarted - Success
+2026-03-02 13:16:51 - 192.168.1.25 - Spooler not found - No action taken - Failed
