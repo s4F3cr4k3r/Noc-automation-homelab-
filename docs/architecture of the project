@@ -1,0 +1,9 @@
+PRTG Sensor
+     ↓
+BAT File Trigger
+     ↓
+PowerShell Script
+     ↓
+Remote Windows 7 Machine
+     ↓
+Log File (C:\PRTGLogs)
